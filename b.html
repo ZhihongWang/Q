@@ -1,0 +1,42 @@
+<!DCTYPE html>
+
+<html>
+    <head bgcolor="green">
+<p align="center"><font color="blue"align="center" size="7">多拉a夢賞析</font></p>
+<meta charset="UTF-8">
+<hr size="5" align="center" noshade width="90%" color="0000ff">
+</head>
+    <body>
+<table align="center">
+<tr>
+<td>
+<td><a href="b.html">多拉a夢</a></td>
+<td><a href="c.html">大雄</a></br>
+<td><a href="d.html">靜香</a></td>
+<td><a href="e.html">胖虎</a></td>
+<td><a href="f.html">小夫</a></td>
+<td><a href="g.html">影片欣賞</a></td>
+</td>
+</table>
+<div align="center">
+<img src="http://static.apple.nextmedia.com/images/apple-photos/apple/20100612/large/12ww1pnewa.jpg" > 
+</div>
+<table width="300" border="1" cellspacing="2" align="center">
+
+<caption>簡介</caption>
+<td>姓名：</td>
+<td>多拉a夢</td>
+<tr>
+<td>性別：</td>
+<td>男（機器貓）</td>
+</table>
+</body>
+<table width="300 border="1 cellspacing="2>
+<caption>簡介</caption>
+<td>姓名：</td>
+<td>多拉a夢</td>
+<td>性別：</td>
+<td>男（機器貓）</td>
+</tr>
+</table>
+</html>
